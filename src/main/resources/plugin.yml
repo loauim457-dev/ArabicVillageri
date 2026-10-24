@@ -1,0 +1,4 @@
+name: ArabicVillager
+version: 1.0
+main: com.example.arabicvillager.ArabicVillager
+api-version: '1.21'
